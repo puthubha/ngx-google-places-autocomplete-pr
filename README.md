@@ -55,8 +55,7 @@ import { GooglePlaceAutocompleteDirective } from "ngx-google-places-autocomplete
 <input google-places-autocomplete [options]='options' #placesRef="ngx-places" (onAddressChange)="handleAddressChange($event)"/>
 ```
 
-3. placeDataFields Input
-The placeDataFields input lets you choose which fields to fetch from the Google Places API when a user selects a place.
+3. placeDataFields Input : The placeDataFields input lets you choose which fields to fetch from the Google Places API when a user selects a place.
 
 ```ts
 <input
