@@ -1,6 +1,6 @@
 {
   "name": "ngx-google-places-autocomplete-pr",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "description": "Google Places Autocomplete directive for Angular 19+, updated fork of deprecated ngx-google-places-autocomplete",
   "keywords": [
     "angular",
@@ -22,8 +22,8 @@
     "url": "https://github.com/puthubha/ngx-google-places-autocomplete-pr.git"
   },
   "peerDependencies": {
-    "@angular/common": ">=19 <20",
-    "@angular/core": ">=19 <20"
+    "@angular/common": ">=16 <17",
+    "@angular/core": ">=16 <17"
   },
 
   "main": "bundles/ngx-google-places-autocomplete-pr.umd.js",
